@@ -108,7 +108,7 @@ else if (starBuks.coffee.caffèLatte.name === question && starBuks.coffee.caffè
    alert(starBuks.coffee.cappuccino.name + '\n' + starBuks.coffee.cappuccino.cost + '\n' + starBuks.coffee.cappuccino.description)
    alert('Order is accepted')
 } else if (starBuks.coffee.caramelMacchiato.name === question && starBuks.coffee.caramelMacchiato.present === true) {
-   alert(starBuks.coffee.caramelMacchiato.name + '\n' + starBuks.coffee.cara.cost + '\n' + starBuks.coffee.cara.description)
+   alert(starBuks.coffee.caramelMacchiato.name + '\n' + starBuks.coffee.caramelMacchiato.cost + '\n' + starBuks.coffee.caramelMacchiato.description)
    alert('Order is accepted')
 } else if (starBuks.coffee.whiteChocolateMocha.name === question && starBuks.coffee.whiteChocolateMocha.present === true) {
    alert(starBuks.coffee.whiteChocolateMocha.name + '\n' + starBuks.coffee.whiteChocolateMocha.cost + '\n' + starBuks.coffee.whiteChocolateMocha.description)
